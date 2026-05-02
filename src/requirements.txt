@@ -1,0 +1,37 @@
+# AutoCRM AI 依赖
+
+# LLM & Agent
+langgraph>=0.3
+langchain>=0.3
+langchain-community>=0.3
+langchain-core>=0.3
+
+# RAG & Vector Store
+chromadb>=0.6
+sentence-transformers>=2.2
+
+# Knowledge Graph
+networkx>=3.0
+pyvis>=0.3
+
+# Web UI
+streamlit>=1.40
+
+# API
+fastapi>=0.115
+uvicorn>=0.30
+
+# Data Processing
+pandas>=2.0
+openpyxl>=3.1
+
+# Database
+sqlite-utils>=3.35
+
+# LLM SDK
+dashscope>=1.20
+openai>=1.30
+
+# Utils
+python-dotenv>=1.0
+pydantic>=2.0

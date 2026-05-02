@@ -1,0 +1,26 @@
+# AutoCRM AI - 汽车行业售前售后AI解决方案
+
+## 环境要求
+- Python 3.10+
+- pip
+
+## 安装依赖
+```bash
+pip install -r requirements.txt
+```
+
+## 项目结构
+```
+CRMProject_c/
+├── src/                    # 源代码
+│   ├── data/              # 数据处理模块
+│   ├── agents/            # Agent模块
+│   ├── rag/               # RAG检索模块
+│   ├── graph/             # 知识图谱模块
+│   └── api/               # API接口模块
+├── 00_BYD数据资源/         # 业务参考文档
+├── 01_项目初期想法/        # 项目蓝图与规划
+├── 02_开发计划/            # 开发里程碑
+├── tests/                  # 测试
+└── README.md
+```
