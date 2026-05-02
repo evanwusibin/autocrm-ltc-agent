@@ -8,7 +8,23 @@
 
 ---
 
-## 📌 项目背景
+## 项目截图
+
+### 登录页
+![登录页](screenshots/01-login.png)
+
+### 工作台
+![工作台](screenshots/02-dashboard.png)
+
+### 全流程场景
+![全流程场景](screenshots/03-pipeline.png)
+
+### Agent页面
+![Agent页面](screenshots/04-agent.png)
+
+---
+
+## 项目背景
 
 企业CRM存在三大核心问题：
 
